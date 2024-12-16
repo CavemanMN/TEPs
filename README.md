@@ -5,7 +5,7 @@
 The main goal of TON Enhancement Proposals is to provide a convenient and formal way to propose changes to TON Blockchain
 and standardize ways of interaction between different parts of ecosystem.
 
-Proposal management is done using GitHub pull requests, the process is described formally in [TEP-1](./text/0001-tep-lifecycle.md).
+Proposal management is done using GitHub pull requests, the process yfis described formally in [TEP-1](./text/0001-tep-lifecycle.md).
 
 ## Creating TEP
 1. Discuss your proposal with community first, for example in TON Dev chat ([en](https://t.me/tondev_eng)/[ru](https://t.me/tondev)).
